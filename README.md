@@ -10,13 +10,13 @@ Setiap direktori mewakili pertemuan perkuliahan mingguan (Minggu 01 sampai Mingg
 
 | Minggu | Direktori | Topik Pembahasan | Tautan Submission Direktori |
 | :---: | :---: | :--- | :--- |
-| **01** | [`01/`](./01/README.md) | Paradigma Cloud Computing dan Gerakan Open Source | `https://github.com/<username>/business-cloud-design/tree/main/01` |
-| **02** | [`02/`](./02/README.md) | Model Layanan Cloud Computing (SaaS, PaaS, IaaS, NaaS, IDaaS, AIaaS) | `https://github.com/<username>/business-cloud-design/tree/main/02` |
-| **03** | [`03/`](./03/README.md) | Private Cloud dan IT Alignment | `https://github.com/<username>/business-cloud-design/tree/main/03` |
-| **04** | [`04/`](./04/README.md) | Ekonomi Private Cloud dan Capital Expenditure (CAPEX vs OPEX) | `https://github.com/<username>/business-cloud-design/tree/main/04` |
-| **05** | [`05/`](./05/README.md) | Metode Kuantitatif Ekonomi Infrastruktur untuk Deployment Cloud (TCO, ROI, Payback) | `https://github.com/<username>/business-cloud-design/tree/main/05` |
-| **06** | [`06/`](./06/README.md) | Desain High Availability dan Efisiensi Infrastruktur (SPOF, RTO/RPO, SRE) | `https://github.com/<username>/business-cloud-design/tree/main/06` |
-| **07** | [`07/`](./07/README.md) | Skalabilitas Berbasis Kontainer & Virtualisasi (Docker, K8s, FinOps) | `https://github.com/<username>/business-cloud-design/tree/main/07` |
+| **01** | [`01/`](./01/README.md) | Paradigma Cloud Computing dan Gerakan Open Source | `https://github.com/syuubtw/business-cloud-design/tree/main/01` |
+| **02** | [`02/`](./02/README.md) | Model Layanan Cloud Computing (SaaS, PaaS, IaaS, NaaS, IDaaS, AIaaS) | `https://github.com/syuubtw/business-cloud-design/tree/main/02` |
+| **03** | [`03/`](./03/README.md) | Private Cloud dan IT Alignment | `https://github.com/syuubtw/business-cloud-design/tree/main/03` |
+| **04** | [`04/`](./04/README.md) | Ekonomi Private Cloud dan Capital Expenditure (CAPEX vs OPEX) | `https://github.com/syuubtw/business-cloud-design/tree/main/04` |
+| **05** | [`05/`](./05/README.md) | Metode Kuantitatif Ekonomi Infrastruktur untuk Deployment Cloud (TCO, ROI, Payback) | `https://github.com/syuubtw/business-cloud-design/tree/main/05` |
+| **06** | [`06/`](./06/README.md) | Desain High Availability dan Efisiensi Infrastruktur (SPOF, RTO/RPO, SRE) | `https://github.com/syuubtw/business-cloud-design/tree/main/06` |
+| **07** | [`07/`](./07/README.md) | Skalabilitas Berbasis Kontainer & Virtualisasi (Docker, K8s, FinOps) | `https://github.com/syuubtw/business-cloud-design/tree/main/07` |
 
 ---
 
@@ -32,14 +32,12 @@ Bagian yang disesuaikan dari keluaran prompt ada pada: [Bagian yang diedit / dis
 
 ---
 
-## Petunjuk Pengumpulan ke E-Learning (EL)
-Sesuai instruksi dosen pengampu, tautan yang dikumpulkan di formulir submission mingguan adalah tautan direktori spesifik:
-* **Minggu 1:** `https://github.com/<username>/business-cloud-design/01` (atau `/tree/main/01`)
-* **Minggu 2:** `https://github.com/<username>/business-cloud-design/02` (atau `/tree/main/02`)
-* **Minggu 3:** `https://github.com/<username>/business-cloud-design/03` (atau `/tree/main/03`)
-* **Minggu 4:** `https://github.com/<username>/business-cloud-design/04` (atau `/tree/main/04`)
-* **Minggu 5:** `https://github.com/<username>/business-cloud-design/05` (atau `/tree/main/05`)
-* **Minggu 6:** `https://github.com/<username>/business-cloud-design/06` (atau `/tree/main/06`)
-* **Minggu 7:** `https://github.com/<username>/business-cloud-design/07` (atau `/tree/main/07`)
-
-*(Ganti `<username>` dengan nama pengguna akun GitHub Anda)*.
+## Tautan Pengumpulan ke E-Learning (EL)
+Sesuai instruksi dosen pengampu, tautan langsung yang dikumpulkan di formulir submission mingguan adalah:
+* **Minggu 1:** `https://github.com/syuubtw/business-cloud-design/01` (atau `https://github.com/syuubtw/business-cloud-design/tree/main/01`)
+* **Minggu 2:** `https://github.com/syuubtw/business-cloud-design/02` (atau `https://github.com/syuubtw/business-cloud-design/tree/main/02`)
+* **Minggu 3:** `https://github.com/syuubtw/business-cloud-design/03` (atau `https://github.com/syuubtw/business-cloud-design/tree/main/03`)
+* **Minggu 4:** `https://github.com/syuubtw/business-cloud-design/04` (atau `https://github.com/syuubtw/business-cloud-design/tree/main/04`)
+* **Minggu 5:** `https://github.com/syuubtw/business-cloud-design/05` (atau `https://github.com/syuubtw/business-cloud-design/tree/main/05`)
+* **Minggu 6:** `https://github.com/syuubtw/business-cloud-design/06` (atau `https://github.com/syuubtw/business-cloud-design/tree/main/06`)
+* **Minggu 7:** `https://github.com/syuubtw/business-cloud-design/07` (atau `https://github.com/syuubtw/business-cloud-design/tree/main/07`)
