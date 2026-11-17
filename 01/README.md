@@ -1,4 +1,5 @@
 Materi Minggu 1: Paradigma Cloud Computing dan Gerakan Open Source
+AI yang digunakan: Google Gemini
 Prompt: Buatkan rangkuman materi kuliah Business Cloud Design tentang pengenalan cloud computing, karakteristik NIST, model layanan, deployment, dan hubungannya dengan open source berdasarkan slide pertemuan 1.
 Bagian yang disesuaikan dari keluaran prompt ada pada: Menyederhanakan bahasa agar tidak kaku, merapikan alur sejarah menjadi poin inti, membuang basa-basi pembuka, serta menyusun ulang bagian Open Source dan UU PDP agar lebih fokus ke alasan praktis di dunia bisnis.
 

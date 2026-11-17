@@ -50,6 +50,7 @@ FORMAT PENULISAN TUGAS MINGGUAN
 Setiap berkas README.md pada masing-masing direktori disusun dengan struktur:
 
 Materi Minggu [X]: [Judul Agenda Perkuliahan]
+AI yang digunakan: [Nama AI yang digunakan]
 Prompt: [Prompt yang diberikan ke AI]
 Bagian yang disesuaikan dari keluaran prompt ada pada: [Bagian yang diedit atau disesuaikan]
 
