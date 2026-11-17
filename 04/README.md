@@ -1,7 +1,7 @@
 Materi Minggu 4: Ekonomi Private Cloud dan Capital Expenditure
 AI yang digunakan: Google Gemini
-Prompt: Rangkum materi ekonomi cloud, perbedaan CAPEX vs OPEX, perhitungan TCO dan unit economics, serta studi kasus kampus 5 tahun di mana biaya private cloud dan public cloud sama-sama bernilai Rp2,7 miliar.
-Bagian yang disesuaikan dari keluaran prompt ada pada: Menjelaskan perbandingan finansial dengan bahasa yang sederhana tanpa rumus yang berbelit-belit, menguraikan studi kasus kampus 5 tahun secara runut, dan menyoroti kenapa biaya nominal yang sama tidak berarti kedua opsi itu setara.
+Prompt: Jelaskan perbedaan CAPEX dan OPEX dalam investasi cloud, bagaimana cara menghitung TCO dan unit economics, serta faktor apa saja yang mempengaruhi keputusan biaya.
+Bagian yang disesuaikan dari keluaran prompt ada pada: Menyederhanakan penjelasan konsep keuangan dan depresiasi agar mudah dipahami, merangkum poin pertimbangan studi kasus kampus, serta merapikan faktor risiko biaya tersembunyi.
 
 ---
 

@@ -1,7 +1,7 @@
 Materi Minggu 3: Private Cloud dan IT Alignment
 AI yang digunakan: Google Gemini
-Prompt: Rangkum materi Private Cloud dan IT Alignment, jelaskan kenapa virtualisasi bukan otomatis private cloud, konsep showback vs chargeback, rantai alignment bisnis ke TI, serta jebakan umum seperti cloud-washing.
-Bagian yang disesuaikan dari keluaran prompt ada pada: Mengubah penjelasan teori menjadi bahasa yang lebih lugas dan aplikatif, memperjelas perbedaan showback dan chargeback dengan bahasa yang praktis, serta merapikan poin studi kasus kampus dan 4 jebakan IT alignment.
+Prompt: Apa perbedaan konsep antara virtualisasi biasa dengan private cloud? Jelaskan juga apa itu IT alignment, perbedaan showback vs chargeback, dan peran guardrails dalam tata kelola cloud.
+Bagian yang disesuaikan dari keluaran prompt ada pada: Mengelompokkan penjelasan ke dalam struktur catatan kuliah, memperjelas logika showback vs chargeback dengan contoh praktis, dan merapikan ringkasan empat sasaran desain.
 
 ---
 

@@ -1,7 +1,7 @@
 Materi Minggu 6: Desain High Availability dan Efisiensi Infrastruktur
 AI yang digunakan: Google Gemini
-Prompt: Rangkum materi Desain High Availability dan Efisiensi Infrastruktur, jelaskan rumus ketersediaan (MTBF/MTTR), perbedaan RTO vs RPO, eliminasi SPOF, arsitektur stateless, strategi disaster recovery, dan studi kasus portal akademik.
-Bagian yang disesuaikan dari keluaran prompt ada pada: Mengubah nada tulisan agar lebih mengalir dan mudah dipahami, menyajikan simulasi perhitungan availability Python secara ringkas, dan merangkum solusi teknis studi kasus portal kampus agar langsung ke intinya.
+Prompt: Jelaskan konsep dasar High Availability dalam cloud, bagaimana hubungan MTBF dan MTTR terhadap ketersediaan sistem, serta perbedaan mendasar antara RTO dan RPO.
+Bagian yang disesuaikan dari keluaran prompt ada pada: Menyederhanakan simulasi perhitungan rumus ketersediaan, merangkum perbedaan arsitektur stateful vs stateless, serta menyusun ringkasan strategi disaster recovery dan studi kasus portal kampus.
 
 ---
 

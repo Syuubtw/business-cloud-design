@@ -1,7 +1,7 @@
 Materi Minggu 2: Model Layanan Cloud Computing
 AI yang digunakan: Google Gemini
-Prompt: Rangkum materi model layanan cloud computing (SaaS, PaaS, IaaS) beserta pembagian tanggung jawabnya, serta jelaskan layanan modern seperti NaaS, IDaaS, dan AIaaS secara terstruktur.
-Bagian yang disesuaikan dari keluaran prompt ada pada: Mengubah gaya penulisan agar seperti catatan belajar mandiri, menyederhanakan tabel pembagian tanggung jawab (shared responsibility model) agar lebih ringkas, dan merangkum poin esensial dari NaaS, IDaaS, dan AIaaS tanpa jargon berulang.
+Prompt: Jelaskan perbedaan konsep SaaS, PaaS, dan IaaS serta bagaimana pembagian tanggung jawab pengelolaannya. Berikan juga penjelasan singkat tentang NaaS, IDaaS, dan AIaaS.
+Bagian yang disesuaikan dari keluaran prompt ada pada: Merangkum perbandingan tanggung jawab ke dalam bentuk daftar lapisan sistem yang ringkas, menyederhanakan penjelasan konsep modern seperti NaaS dan IDaaS, serta menambahkan contoh aplikasi nyata.
 
 ---
 

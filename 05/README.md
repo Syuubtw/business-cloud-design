@@ -1,7 +1,7 @@
 Materi Minggu 5: Metode Kuantitatif Ekonomi Infrastruktur untuk Deployment Cloud
 AI yang digunakan: Google Gemini
-Prompt: Rangkum materi metode kuantitatif ekonomi cloud, rumus metrik TCO, ROI, dan Payback Period, serta simulasi perbandingan biaya 3 tahun antara Private Cloud vs Public Cloud berdasarkan data slide pertemuan 5.
-Bagian yang disesuaikan dari keluaran prompt ada pada: Menyajikan langkah perhitungan matematika secara berurutan dan runtut agar mudah diikuti, menyederhanakan definisi konsep finansial ke bahasa sehari-hari, serta merangkum praktik FinOps yang relevan untuk mengendalikan biaya.
+Prompt: Bagaimana cara memahami analisis kuantitatif ekonomi infrastruktur cloud menggunakan metrik TCO, ROI, dan payback period?
+Bagian yang disesuaikan dari keluaran prompt ada pada: Menyusun alur perhitungan rumus langkah demi langkah secara runut, menyederhanakan penjelasan skenario studi kasus, dan menambahkan catatan uji sensitivitas serta praktik FinOps.
 
 ---
 

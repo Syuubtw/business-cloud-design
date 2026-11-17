@@ -1,7 +1,7 @@
 Materi Minggu 7: Skalabilitas Berbasis Kontainer & Virtualisasi
 AI yang digunakan: Google Gemini
-Prompt: Rangkum materi Skalabilitas Berbasis Kontainer dan Virtualisasi, jelaskan perbandingan Scale-up vs Scale-out, perbedaan VM vs Kontainer, peran Kubernetes, arsitektur hibrida VM+Kontainer, dan dampak penghematan FinOps.
-Bagian yang disesuaikan dari keluaran prompt ada pada: Mengurangi gaya bahasa pemasaran cloud yang berlebihan, merapikan tabel perbandingan VM dan Docker agar lebih to the point, serta menguraikan penghematan FinOps (hemat hardware 60%, lisensi 80%) secara jelas dan mudah dipahami.
+Prompt: Jelaskan konsep perbedaan antara Scale-Up dan Scale-Out, perbedaan mendasar arsitektur Virtual Machine vs Kontainer, serta bagaimana peran Kubernetes dan FinOps dalam efisiensi sistem.
+Bagian yang disesuaikan dari keluaran prompt ada pada: Merapikan poin perbandingan teknis VM dan kontainer agar langsung ke inti konsep, menyederhanakan penjelasan arsitektur hibrida, serta merangkum dampak efisiensi FinOps.
 
 ---
 
